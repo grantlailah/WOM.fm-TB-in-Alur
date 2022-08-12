@@ -1,52 +1,52 @@
 Amplitude.init({
    "songs":[
       {
-         "name":"Stress Management - Building Awareness",
+         "name":"TB Awareness - Building Awareness",
          "url":"./audio/Building_Awareness.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source": "GLRA Uganda",
+         "source_url": ""
       },
       {
-         "name":"Stress Management - Grounding Exercise 1",
+         "name":"TB Awareness in Alur",
          "url":"./audio/Grounding_Exercise_1.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source": "GLRA Uganda",
+         "source_url": ""
       },
       {
-         "name":"Stress Management - Grounding Exercise 2",
+         "name":"TB Awareness in Alur",
          "url":"./audio/Grounding_Exercise_2.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source": "GLRA Uganda",
+         "source_url": ""
       },
       {
-         "name":"Stress Management - Grounding Exercise 3",
+         "name":"TB Awareness in Alur",
          "url":"./audio/Grounding_Exercise_3.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source": "GLRA Uganda",
+         "source_url": ""
       },
       {
-         "name":"Stress Management - Notice and Name",
+         "name":"TB Awareness in Alur",
          "url":"./audio/Notice_and_Name.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source": "GLRA Uganda",
+         "source_url": ""
       },
       {
-         "name":"Stress Management - Unhooking from Unkind Thoughts",
+         "name":"TB Awareness in Alur",
          "url":"./audio/Unhooking_from_Unkind_Thoughts.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source": "GLRA Uganda",
+         "source_url": ""
       },
       {
-         "name":"Stress Management - Making Room",
+         "name":"TB Awareness in Alur",
          "url":"./audio/Making_Room.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source": "GLRA Uganda",
+         "source_url": ""
       },
       {
-         "name":"Stress Management - Being Kind to Yourself",
+         "name":"TB Awareness in Alur",
          "url":"./audio/Being_kind_to_yourself.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source": "GLRA Uganda",
+         "source_url": ""
       },
   
    ]
