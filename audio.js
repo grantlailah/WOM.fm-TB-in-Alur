@@ -48,6 +48,6 @@ Amplitude.init({
          "source": "GLRA Uganda",
          "source_url": ""
       },
-  
+
    ]
 });
