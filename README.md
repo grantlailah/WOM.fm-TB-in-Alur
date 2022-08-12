@@ -2,6 +2,8 @@
 
 WOM.fm-TB Awareness in Alur language is an open platform for accessible audio information about TB Awareness in the Alur language.
 
+<img src="../WOM.fm-TB-in-Alur/resources/OG_WOM.png" />
+
 [This website]() consists of audio information about **Tuberculose(TB) Awareness** that is aimed to sensitize the Alur speaking population.
 
 > __NB:__
