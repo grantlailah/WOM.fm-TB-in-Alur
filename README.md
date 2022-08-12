@@ -2,9 +2,9 @@
 
 WOM.fm-TB Awareness in Alur language is an open platform for accessible audio information about TB Awareness in the Alur language.
 
-<img src="" alt="wom" />
+<img src="./resources/OG_WOM.png" alt="wom" />
 
-[This website](https://womfm-tb-awareness-in-alur.netlify.app/) consists of audio information about **Tuberculose(TB) Awareness** that is aimed to sensitize the Alur speaking population.
+WOM.fm-TB Awareness in Alur consists of audio information about **Tuberculose(TB) Awareness** that is aimed to sensitize the Alur speaking population.
 
 > __NB:__
 > * :mask: **Tuberculose(TB)** is the __ninth__ leading cause of death worldwide and the leading cause from a single infectious agent, ranking above HIV/AIDS. 
